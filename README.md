@@ -1,3 +1,10 @@
+https://github.com/android/play-billing-samples/tree/master/TrivialDriveJava  
+코드를 기반으로 구글 빌링 라이브러리 버전을 올렸습니다. 기능 구현 위주로 만들었기 때문에 코드가 다소 보기 어려울 수 있지만 천천히 정리해보겠습니다.
+
+
+
+
+
 Trivial Drive
 =============
 
